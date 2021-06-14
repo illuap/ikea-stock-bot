@@ -1,0 +1,1621 @@
+1623419500437	geckodriver	INFO	Listening on 127.0.0.1:60585
+1623419564145	geckodriver	INFO	Listening on 127.0.0.1:60699
+1623419567292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilefXhpQ7"
+1623419570800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623419578308	Marionette	INFO	Listening on port 63457
+1623419578759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623419582044	Marionette	INFO	Stopped listening on port 63457
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623419795431	geckodriver	INFO	Listening on 127.0.0.1:52575
+1623419798558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileT2JkPz"
+1623419798961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623419802829	Marionette	INFO	Listening on port 53118
+1623419802921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623420781177	Marionette	INFO	Stopped listening on port 53118
+3420020620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile0FTvTe"
+1623420021002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623420025405	Marionette	INFO	Listening on port 52410
+1623420025462	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623420781210	Marionette	INFO	Stopped listening on port 52410
+3420057692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile2Yo0wy"
+1623420058107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623420062334	Marionette	INFO	Listening on port 58803
+1623420062566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: TypeError: t.sent is undefined
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623420781194	Marionette	INFO	Stopped listening on port 58803
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofile8Lnt5V"
+1623420209193	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623420214035	Marionette	INFO	Listening on port 61930
+1623420214509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 213: TypeError: grip is undefined
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 213: TypeError: grip is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1623420428289	FirefoxAccounts	ERROR	FxA rejecting with error NO_ACCOUNT, details: undefined
+1623420428303	FirefoxAccounts	ERROR	FxA rejecting with error NO_ACCOUNT, details: undefined
+JavaScript error: resource://gre/modules/FxAccounts.jsm, line 1524: Error: NO_ACCOUNT
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.warn: "Already stopped listening to websocket events from another toolbox."
+console.error: ({})
+[Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIEventSourceEventService.removeListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/resources/server-sent-events.js :: stopListening :: line 84"  data: no]: stopListening@resource://devtools/server/actors/resources/server-sent-events.js:84:31
+onWindowDestroy@resource://devtools/server/actors/resources/server-sent-events.js:71:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_windowDestroyed@resource://devtools/server/actors/targets/browsing-context.js:1480:10
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/browsing-context.js:1854:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+1623420523482	Marionette	INFO	Stopped listening on port 61930
+1623420713767	geckodriver	INFO	Listening on 127.0.0.1:64953
+1623420716870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilev8mCbw"
+1623420717223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623420720495	Marionette	INFO	Listening on port 63057
+1623420720593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623420780948	Marionette	INFO	Stopped listening on port 63057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileaGlR5Y"
+1623420765261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623420767919	Marionette	INFO	Listening on port 54451
+1623420768242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623420781383	Marionette	INFO	Stopped listening on port 54451
+1623420782244	geckodriver	INFO	Listening on 127.0.0.1:65395
+1623420785335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilebK5zrb"
+1623420785613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623420787545	Marionette	INFO	Listening on port 52904
+1623420788019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+JavaScript warning: https://www.google-analytics.com/analytics.js, line 47: Script terminated by timeout at:
+Ya.prototype.get@https://www.google-analytics.com/analytics.js:47:600
+X/b[a]@https://www.google-analytics.com/analytics.js:56:58
+P@https://www.google-analytics.com/analytics.js:47:731
+Xd@https://www.google-analytics.com/analytics.js:61:34
+td@https://www.google-analytics.com/analytics.js:77:118
+pc@https://www.google-analytics.com/analytics.js:75:163
+N.create@https://www.google-analytics.com/analytics.js:92:630
+X/b[a]@https://www.google-analytics.com/analytics.js:56:58
+Z.v@https://www.google-analytics.com/analytics.js:92:117
+Z.D@https://www.google-analytics.com/analytics.js:91:613
+N.N@https://www.google-analytics.com/analytics.js:94:251
+rc@https://www.google-analytics.com/analytics.js:86:123
+z@https://www.google-analytics.com/analytics.js:86:155
+@https://www.google-analytics.com/analytics.js:94:304
+@https://www.google-analytics.com/analytics.js:94:356
+
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA, line 322: Script terminated by timeout at:
+s_Lg<@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:322:250
+s_.set@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:339:76
+s_Qaa@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:19:471
+s_ch.prototype.fUb@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:371:188
+s_ti.prototype.log@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:492:234
+s_ij.prototype.log@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:701:475
+s_MJb@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:4887:472
+s_OJb</<@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:4891:128
+s_kfa@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:84:391
+s_mfa/this.next@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:85:212
+b@https://www.google.com/xjs/_/js/k=xjs.s.en_GB.5gBzu7iXzWU.O/m=cdos,cr,dpf,hsm,jsa,d,csi/am=QhlAAAAAAPwBeIARUEAAAABgDAIAAAAAAFAIIJDYHSgAAJiaR8AAAAABCBwCgIiCCCAAAABgAusAcP6DAIBLcAkDAAAAAAAggJZARqkAiYAAAgAAAJCpBVMHAQAU/d=1/ed=1/dg=2/rs=ACT90oEVTZB5kSx9Q6TlYasw6vZwdrOnvA:86:73
+
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+JavaScript error: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_271.js, line 64: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_271.js, line 64: NS_ERROR_NOT_INITIALIZED: 
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.error: (new TypeError("item is null", "resource://devtools/client/storage/ui.js", 1236))
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.error: (new Error("Connection closed, pending request to server0.conn0.child4/cookies898, type getStoreObjects failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Fron1623435385384	Marionette	INFO	Stopped listening on port 61715
+://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nfetchStorageObjects@resource://devtools/client/storage/ui.js:836:38\nhandleAddedItems@resource://devtools/client/storage/ui.js:668:22\n_onStoreUpdate@resource://devtools/client/storage/ui.js:614:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nmakeStorageLegacyListener/</<@resource://devtools/shared/resources/legacy-listeners/storage-utils.js:67:15\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:329:13\nonPacket@resource://devtools/client/devtools-client.js:482:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.error: (new Error("Can not send request 'getStoreObjects' because front 'cookies' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: resource://devtools/client/storage/ui.js, line 467: TypeError: this.sidebarToggleBtn is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 16164, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1623421485169	Marionette	INFO	Stopped listening on port 52904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tps://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("item is null", "resource://devtools/client/storage/ui.js", 1236))
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.error: (new TypeError("item is null", "resource://devtools/client/storage/ui.js", 1236))
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.error: (new TypeError("item is null", "resource://devtools/client/storage/ui.js", 1236))
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+con1623435386018	Marionette	INFO	Stopped listening on port 62741
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.error: (new TypeError("item is null", "resource://devtools/client/storage/ui.js", 1236))
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: https://www.ikea.com/ca/en/products/javascripts/range-history.c5fc5506646cddb03353.js, line 1: TypeError: n is null
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 571))
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.error: (new TypeError("this.cells[i] is undefined", "resource://devtools/client/shared/widgets/TableWidget.js", 1544))
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://bid.g.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+JavaScript error: resource://devtools/client/shared/widgets/TableWidget.js, line 1863: TypeError: right-hand side of 'in' should be an object, got undefined
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/products/javascripts/range-history.c5fc5506646cddb03353.js, line 1: TypeError: n is null
+console.warn: "Failed to enumerate localStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://a11701662245.cdn-pci.optimizely.com: SecurityError: The operation is insecure."
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+console.warn: "Failed to enumerate localStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://9906445.fls.doubleclick.net: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.com: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://match.adsrvr.org: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate localStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+console.warn: "Failed to enumerate CacheStorage for host https://adservice.google.ca: SecurityError: The operation is insecure."
+[Child 3032, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1623422010435	Marionette	INFO	Stopped listening on port 57680
+1623422015696	geckodriver	INFO	Listening on 127.0.0.1:63440
+1623422018790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileYnwWSC"
+1623422019071	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623422021424	Marionette	INFO	Listening on port 63448
+1623422021500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623422026533	Marionette	INFO	Stopped listening on port 63448
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofileYnwWSC\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623422045520	geckodriver	INFO	Listening on 127.0.0.1:63567
+1623422048644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileOdmnIm"
+1623422048910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623422050625	Marionette	INFO	Listening on port 63575
+1623422050726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623422055513	Marionette	INFO	Stopped listening on port 63575
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623422103412	geckodriver	INFO	Listening on 127.0.0.1:63737
+1623422106517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileSeDKYP"
+1623422106789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623422108526	Marionette	INFO	Listening on port 63747
+1623422108567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623422113759	Marionette	INFO	Stopped listening on port 63747
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623422144252	geckodriver	INFO	Listening on 127.0.0.1:63891
+1623422147349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileVvWEca"
+1623422147618	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623422150230	Marionette	INFO	Listening on port 63899
+1623422150536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623422154350	Marionette	INFO	Stopped listening on port 63899
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofileVvWEca\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623422223945	geckodriver	INFO	Listening on 127.0.0.1:53983
+1623422227038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile1EcvnN"
+1623422227303	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623422229050	Marionette	INFO	Listening on port 53991
+1623422229109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2156:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://de1623435388036	Marionette	INFO	Stopped listening on port 64155
+@resource://devtools/server/actors/resources/index.js:224:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:149:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:40:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:412:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:354:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0)'
+1623435385464	Marionette	INFO	Stopped listening on port 53991
+timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623422531739	Marionette	INFO	Stopped listening on port 52901
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofile17g43I\protections.sqlite
+1623422890647	geckodriver	INFO	Listening on 127.0.0.1:60045
+1623422893741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileIK9th9"
+1623422894006	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623422895849	Marionette	INFO	Listening on port 60055
+1623422895937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623422904382	Marionette	INFO	Stopped listening on port 60055
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623422972317	geckodriver	INFO	Listening on 127.0.0.1:60217
+1623422975413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileDeEf8C"
+1623422975682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623422977536	Marionette	INFO	Listening on port 60225
+1623422977568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435385144	Marionette	INFO	Stopped listening on port 60225
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofileFSyMq7"
+1623423218756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423220690	Marionette	INFO	Listening on port 51274
+1623423221125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623423225768	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0117,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+1623435386559	Marionette	INFO	Stopped listening on port 51274
+s\\pli\\AppData\\Local\\Temp\\rust_mozprofilepYlYLd"
+1623423295489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423297351	Marionette	INFO	Listening on port 51477
+1623423297382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623423302007	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+[Parent 32784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623435386609	Marionette	INFO	Stopped listening on port 51477
+00214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423403189	Marionette	INFO	Listening on port 58280
+1623423403633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435386000	Marionette	INFO	Stopped listening on port 58280
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile6W5Mn3"
+1623423483333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423485549	Marionette	INFO	Listening on port 53170
+1623423485747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1623435386165	Marionette	INFO	Stopped listening on port 53170
+ "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileXoJAhT"
+1623423519018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423521679	Marionette	INFO	Listening on port 53337
+1623423521893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435386608	Marionette	INFO	Stopped listening on port 53337
+3423566787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile7QVfVI"
+1623423567057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423569216	Marionette	INFO	Listening on port 53515
+1623423569492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623423573981	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435385489	Marionette	INFO	Stopped listening on port 53515
+3423601095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileHHYAik"
+1623423601426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423604131	Marionette	INFO	Listening on port 53692
+1623423604292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623423609683	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1623435385499	Marionette	INFO	Stopped listening on port 53692
+3423632866	geckodriver	INFO	Listening on 127.0.0.1:53876
+1623423635933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileqOHR7k"
+1623423636224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423638936	Marionette	INFO	Listening on port 53886
+1623423639144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623423650476	Marionette	INFO	Stopped listening on port 53886
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623423710773	geckodriver	INFO	Listening on 127.0.0.1:54078
+1623423713865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileuQbYBu"
+1623423714160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423716907	Marionette	INFO	Listening on port 54086
+1623423717069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623423721573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623423740602	Marionette	INFO	Stopped listening on port 54086
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623423798731	geckodriver	INFO	Listening on 127.0.0.1:52926
+1623423801815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile1oA7CU"
+1623423802099	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423804707	Marionette	INFO	Listening on port 52934
+1623423805002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623423809542	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623423829296	Marionette	INFO	Stopped listening on port 52934
+[Child 41524, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623423836737	geckodriver	INFO	Listening on 127.0.0.1:53079
+1623423839813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileUVB7zo"
+1623423840102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423842351	Marionette	INFO	Listening on port 53087
+1623423842505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623423847691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623423848292	Marionette	INFO	Stopped listening on port 53087
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: https://www.ikea.com/ca/en/one-solution-widgets/scripts/widgets/cxbus.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.ikea.com/ca/en/one-solution-widgets/scripts/widgets/cxbus.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+1623423978227	geckodriver	INFO	Listening on 127.0.0.1:53296
+1623423981335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileJ3wzMe"
+1623423981620	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623423983887	Marionette	INFO	Listening on port 53304
+1623423984048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623423988750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623423991752	Marionette	INFO	Stopped listening on port 53304
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424093525	geckodriver	INFO	Listening on 127.0.0.1:54229
+1623424096625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilex2upLV"
+1623424096901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424099404	Marionette	INFO	Listening on port 54238
+1623424099928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424109265	Marionette	INFO	Stopped listening on port 54238
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424169808	geckodriver	INFO	Listening on 127.0.0.1:64124
+1623424172889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileM6yWCW"
+1623424173309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424176703	Marionette	INFO	Listening on port 64135
+1623424177107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424182405	Marionette	INFO	Stopped listening on port 64135
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00BA,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofileM6yWCW\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424261452	geckodriver	INFO	Listening on 127.0.0.1:64301
+1623424264549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile9lAq2c"
+1623424264898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424267958	Marionette	INFO	Listening on port 64309
+1623424268236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424275123	Marionette	INFO	Stopped listening on port 64309
+1623424409119	geckodriver	INFO	Listening on 127.0.0.1:51964
+1623424412188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile2ynQMn"
+1623424412467	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424414656	Marionette	INFO	Listening on port 51974
+1623424414923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424420959	Marionette	INFO	Stopped listening on port 51974
+JavaScript error: https://www.ikea.com/ca/en/one-solution-widgets/scripts/widgets/plugins/webchatservice.min.js, line 7: TypeError: c is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofile2ynQMn\protections.sqlite
+1623424442921	geckodriver	INFO	Listening on 127.0.0.1:52123
+1623424446011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileimMjFz"
+1623424446293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424448635	Marionette	INFO	Listening on port 52132
+1623424448721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424453808	Marionette	INFO	Stopped listening on port 52132
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofileimMjFz\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424489250	geckodriver	INFO	Listening on 127.0.0.1:52264
+1623424492329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilegl1esy"
+1623424492612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424495172	Marionette	INFO	Listening on port 52274
+1623424495506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623424500468	Marionette	INFO	Stopped listening on port 52274
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofilegl1esy\protections.sqlite
+1623424549176	geckodriver	INFO	Listening on 127.0.0.1:49761
+1623424552270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileNI5mvJ"
+1623424552547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424554784	Marionette	INFO	Listening on port 49770
+1623424555008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424565621	Marionette	INFO	Stopped listening on port 49770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424736556	geckodriver	INFO	Listening on 127.0.0.1:53809
+1623424739640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileu84EZ6"
+1623424739918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424742909	Marionette	INFO	Listening on port 53817
+1623424743350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435386589	Marionette	INFO	Stopped listening on port 53817
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile4oIeB5"
+1623424766456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424769593	Marionette	INFO	Listening on port 53990
+1623424769877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424774785	Marionette	INFO	Stopped listening on port 53990
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://www.ikea.com/ca/en/one-solution-widgets/scripts/widgets/cxbus.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424880953	geckodriver	INFO	Listening on 127.0.0.1:54172
+1623424884022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileutM2fE"
+1623424884307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424886924	Marionette	INFO	Listening on port 54180
+1623424887229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424894499	Marionette	INFO	Stopped listening on port 54180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424928116	geckodriver	INFO	Listening on 127.0.0.1:53776
+1623424931234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile5dFHJr"
+1623424931514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424934020	Marionette	INFO	Listening on port 53787
+1623424934410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424941279	Marionette	INFO	Stopped listening on port 53787
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofile5dFHJr\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623424967279	geckodriver	INFO	Listening on 127.0.0.1:53970
+1623424970369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileA4qkts"
+1623424970646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623424973163	Marionette	INFO	Listening on port 53982
+1623424973549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623424982172	Marionette	INFO	Stopped listening on port 53982
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623425022837	geckodriver	INFO	Listening on 127.0.0.1:54163
+1623425025928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileefDvHV"
+1623425026309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623425030098	Marionette	INFO	Listening on port 54171
+1623425030228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623425037684	Marionette	INFO	Stopped listening on port 54171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623426578798	geckodriver	INFO	Listening on 127.0.0.1:64659
+1623426581880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilefE9mJo"
+1623426582160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623426584768	Marionette	INFO	Listening on port 64669
+1623426585107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1623435386581	Marionette	INFO	Stopped listening on port 64669
+3426774342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileWqqkAS"
+1623426774627	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623426777146	Marionette	INFO	Listening on port 52249
+1623426777521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435385172	Marionette	INFO	Stopped listening on port 52249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileqhGxey"
+1623427063077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623427066172	Marionette	INFO	Listening on port 60698
+1623427066456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435386601	Marionette	INFO	Stopped listening on port 60698
+3427107295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileofh2jN"
+1623427107586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623427110643	Marionette	INFO	Listening on port 60865
+1623427110993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+1623435386593	Marionette	INFO	Stopped listening on port 60865
+3435326223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileyw8gDi"
+1623435326612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623435329367	Marionette	INFO	Listening on port 49772
+1623435329432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623435336540	Marionette	INFO	Stopped listening on port 49772
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: https://www.ikea.com/ca/en/one-solution-widgets/scripts/widgets/cxbus.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.ikea.com/ca/en/one-solution-widgets/scripts/widgets/cxbus.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623435351079	geckodriver	INFO	Listening on 127.0.0.1:49869
+1623435354162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofiles2kLxT"
+1623435354520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623435357651	Marionette	INFO	Listening on port 49878
+1623435357903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435364775	Marionette	INFO	Stopped listening on port 49878
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofiles2kLxT\protections.sqlite
+1623435389797	geckodriver	INFO	Listening on 127.0.0.1:50063
+1623435392872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileJotFxg"
+1623435393360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623435396528	Marionette	INFO	Listening on port 50075
+1623435396584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623435402704	Marionette	INFO	Stopped listening on port 50075
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623441913831	geckodriver	INFO	Listening on 127.0.0.1:57497
+1623441916976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileEtqdph"
+1623441917911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623441923916	Marionette	INFO	Listening on port 57506
+1623441924020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623441937879	Marionette	INFO	Stopped listening on port 57506
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623442110248	geckodriver	INFO	Listening on 127.0.0.1:57891
+1623442113358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileofwMLg"
+1623442114051	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623442118560	Marionette	INFO	Listening on port 57900
+1623442118711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623442129962	Marionette	INFO	Stopped listening on port 57900
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623443602696	geckodriver	INFO	Listening on 127.0.0.1:49904
+1623443605818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilepJ2yMt"
+1623443606764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623443613131	Marionette	INFO	Listening on port 49913
+1623443613419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623443620945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623443621667	Marionette	INFO	Stopped listening on port 49913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0141,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A013B,name=PContent::Msg_BlobURLDataRequest) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofilepJ2yMt\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623697620250	geckodriver	INFO	Listening on 127.0.0.1:53718
+1623697623424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileZiU3iv"
+1623697623804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623697625871	Marionette	INFO	Listening on port 53727
+1623697626124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623697652791	Marionette	INFO	Stopped listening on port 53727
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623697655605	geckodriver	INFO	Listening on 127.0.0.1:53896
+1623697658795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilebHRZtq"
+1623697659158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623697661133	Marionette	INFO	Listening on port 53904
+1623697661503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623697903284	geckodriver	INFO	Listening on 127.0.0.1:62192
+1623697906417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofile9mf6h3"
+1623697906756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623697908697	Marionette	INFO	Listening on port 62200
+1623697909114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 219: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 219: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 219: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 219: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/15611700016844898304/index.html#t=4677993124154445920&p=https%3A%2F%2Fgoogleads.g.doubleclick.net, line 256: TypeError: studio.Enabler is undefined
+1623698330905	geckodriver	INFO	Listening on 127.0.0.1:62939
+1623698334073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileD2l4B3"
+1623698334414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698336609	Marionette	INFO	Listening on port 62949
+1623698336792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698362318	geckodriver	INFO	Listening on 127.0.0.1:63125
+1623698365503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofilenAqZSS"
+1623698365803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698367947	Marionette	INFO	Listening on port 63133
+1623698368178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698454326	geckodriver	INFO	Listening on 127.0.0.1:63324
+1623698457487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileczwUGV"
+1623698458018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698460362	Marionette	INFO	Listening on port 63333
+1623698460693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698500477	geckodriver	INFO	Listening on 127.0.0.1:63518
+1623698503634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileLcNLrp"
+1623698503947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698505948	Marionette	INFO	Listening on port 63526
+1623698506322	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623700454748	Marionette	INFO	Stopped listening on port 63526
+3698548574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileNBMMjh"
+1623698548920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698550989	Marionette	INFO	Listening on port 63712
+1623698551269	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698730353	geckodriver	INFO	Listening on 127.0.0.1:64054
+1623698733476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileUmTXMg"
+1623698733825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698735888	Marionette	INFO	Listening on port 64062
+1623698736180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623698741599	Marionette	INFO	Stopped listening on port 64062
+1623698754716	geckodriver	INFO	Listening on 127.0.0.1:64238
+1623698757871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileMGQvhN"
+1623698758226	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698760462	Marionette	INFO	Listening on port 64249
+1623698760576	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698772326	geckodriver	INFO	Listening on 127.0.0.1:64417
+1623698775481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileB2cU8H"
+1623698775786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698777769	Marionette	INFO	Listening on port 64425
+1623698778881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698811402	geckodriver	INFO	Listening on 127.0.0.1:64587
+1623698814522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileuNlSfR"
+1623698814843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698817273	Marionette	INFO	Listening on port 64597
+1623698817717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698914491	geckodriver	INFO	Listening on 127.0.0.1:64813
+1623698917698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileurABmg"
+1623698918075	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698920152	Marionette	INFO	Listening on port 64821
+1623698920396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623698924151	Marionette	INFO	Stopped listening on port 64821
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\pli\AppData\Local\Temp\rust_mozprofileurABmg\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623698936089	geckodriver	INFO	Listening on 127.0.0.1:64913
+1623698939224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofiletRG9VO"
+1623698939560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623698941582	Marionette	INFO	Listening on port 64922
+1623698941916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623699781276	geckodriver	INFO	Listening on 127.0.0.1:54347
+1623699784448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pli\\AppData\\Local\\Temp\\rust_mozprofileUK089o"
+1623699784777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1623699787183	Marionette	INFO	Listening on port 54357
+1623699787618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.ikea.com/ca/en/insp-feed/content-gallery-app/organic-feed.ee3647f8.chunk.js, line 1: Error: no feed items found
+1623699793413	Marionette	INFO	Stopped listening on port 54357
