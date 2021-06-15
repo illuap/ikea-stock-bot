@@ -1,3 +1,4 @@
+from selenium.webdriver.firefox.options import Options
 from emailer import send_email_alert
 from typing import Dict
 from selenium import webdriver
@@ -7,7 +8,9 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 
-browser = webdriver.Firefox()
+options = Options()
+options.add_argument("--headless")
+browser = webdriver.Firefox(firefox_options=options)
 
 browser.get(
     'https://www.ikea.com/ca/en/p/sektion-base-cabinet-frame-white-30265386/')
@@ -30,7 +33,7 @@ except TimeoutException:
 assert 'IKEA' in browser.title
 
 
-#elem = browser.find_element_by_link_text('Check in-store stock')
+# elem = browser.find_element_by_link_text('Check in-store stock')
 elem = browser.find_element_by_class_name(
     'range-revamp-stockcheck__available-for-delivery-link')
 elem.click()
@@ -42,32 +45,25 @@ WebDriverWait(browser, 1)
 retryCount = 5
 elem2 = None
 
-for i in range(0, retryCount):
-    elem2 = browser.find_elements_by_xpath(
-        "//div[@class='range-revamp-change-store__store']")
-    if(len(elem2) != 0):
-        break
-    print("[Debug] JS not loading fast enough trying again....")
-    WebDriverWait(browser, 2)
+WebDriverWait(browser, delay).until(EC.presence_of_element_located(
+    (By.XPATH, "//div[@class='range-revamp-change-store__store']")))
 
+elem2 = browser.find_elements_by_xpath(
+        "//div[@class='range-revamp-change-store__store']")
+
+print("Done Second Step")
 if(len(elem2) == 0):
     print("ERROR: COULD NOT FIND ITEM")
 
 
 # Check if item is in stock
 for item in elem2:
-    if("Burlington" in item.text and "In stock" in item.text):
-        send_email_alert(item_name, item.text)
+    if("Burlington" in item.text):
+        send_email_alert(item_name, ""+item.text)
         print("--== Item has stock: ")
         print(item.text)
         print(('In stock' in item.text))
         print(" ")
-
-# elem = browser.find_element_by_class_name('range-revamp-stockcheck__item-link')  # Find the search box
-# if(elem):
-#	print("FOUND")
-#elem.send_keys('seleniumhq' + Keys.RETURN)
-
 
 print("-Ending-")
 browser.quit()
